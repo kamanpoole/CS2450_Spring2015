@@ -12,6 +12,7 @@ namespace testing
     static void Main()
     {
       WriteLine("Hello World!");
+      WriteLine("Goodbye World!")
       ReadLine();
     }
   }
