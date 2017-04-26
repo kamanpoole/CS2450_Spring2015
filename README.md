@@ -1,2 +1,2 @@
 # Sandbox
-This is where I play, learn new things, and perfect old skills.
+A place to try new things, and learn.
